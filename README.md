@@ -4,7 +4,6 @@
 
 * Kotlin
 * Dagger Hilt
-* Junit
 * Kotlin coroutines
 * MVVM
 * Glide
