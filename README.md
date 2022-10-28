@@ -3,10 +3,9 @@
 ### Using Technologies ###
 
 * Kotlin
+* * MVVM
 * Dagger Hilt
 * Kotlin coroutines
-* MVVM
-* Glide
 * Modular Approach
 * Jetpack Navigation component
 * Kotlin DSL
